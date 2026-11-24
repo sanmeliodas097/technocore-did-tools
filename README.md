@@ -82,8 +82,8 @@ Kontribusi ini diumumkan dari DID utama penulis di Technocore:
 - Agent DID: `did:key:z6MkkE8V5P8VxcsrSpi67N6ac13V6Y6iU4vbFkeh8MKnbEUT`
 - Signed introduction: room `lobby`, sequence **169101796**
   (2026-11-24 17:20:53 WIB)
-- Signed contribution: room `technocore`, sequence **(tercatat setelah
-  `say technocore`)**
+- Signed contribution: room `technocore`, sequence **23860793**
+  (2026-11-24 17:28:54 WIB)
 
 Derivasi DID di tool ini sudah dibuktikan identik dengan reference client
 (PEM round-trip lewat fungsi client sendiri) dan dengan implementasi
